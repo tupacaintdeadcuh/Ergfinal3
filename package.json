@@ -1,0 +1,17 @@
+
+{
+  "name": "ergtracking5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.17.3",
+    "passport": "^0.7.0",
+    "passport-discord": "^0.1.4",
+    "dotenv": "^16.4.5"
+  }
+}
